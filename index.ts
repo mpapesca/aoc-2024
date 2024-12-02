@@ -1,1 +1,1 @@
-console.log("Hello via Bun!");
+console.log("Run a script with 'bun run day<day_number'");
